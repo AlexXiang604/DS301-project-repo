@@ -32,7 +32,7 @@ The models were evaluated based on their ability to detect AI-generated images f
 - **Baseline Model**: High accuracy on GAN-generated images but poor on others.
 - **Enhanced Models**: Models trained on a combination of GAN and Stable Diffusion images showed improved accuracy across various datasets.
 
-## Analysis
+## Analysis 
 Our results suggest that using a diverse dataset significantly enhances the model's ability to generalize across different types of synthetic imagery. ELA as a preprocessing tool did not significantly improve performance, whereas dataset diversification did.
 
 ## Conclusions
